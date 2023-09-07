@@ -2,7 +2,7 @@
 
 This repository contains the code implementation of Intel Image Classification using the Vision Transformer (ViT) model. The ViT model is based on the "An Image is Worth 16x16 Words" paper, and we utilize the ViT Base architecture for this task.
 
-I have written a blogpost which guides you through the code. It can be accesed on [medium](https://github.com/Ammar2k/intel_image_classification.git).
+I have written a blogpost which guides you through the code. It can be accesed on [medium](https://medium.com/@muhammad2000ammar/mastering-transfer-learning-with-pytorch-d1521f3a6a6e).
 
 ## Deployed Application
 
