@@ -2,6 +2,8 @@
 
 This repository contains the code implementation of Intel Image Classification using the Vision Transformer (ViT) model. The ViT model is based on the "An Image is Worth 16x16 Words" paper, and we utilize the ViT Base architecture for this task.
 
+I have written a blogpost which guides you through the above repository, it can be accesed [here](https://github.com/Ammar2k/intel_image_classification.git).
+
 ## Deployed Application
 
 The model is hosted on [Hugging Face Spaces](https://huggingface.co/spaces/ammar2k/scene_recognition) using Gradio.
